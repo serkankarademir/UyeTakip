@@ -1,0 +1,6 @@
+{
+  "name": "Ekip Üye ve Etkinlik Takip Sistemi",
+  "description": "Arama kurtarma ve acil durum ekipleri için üye, akreditasyon, görev, etkinlik ve katılım yönetim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
